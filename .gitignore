@@ -1,0 +1,27 @@
+
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.vcxproj.user.*
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages
+*.nupkg
+Packages/
+
+# Ignorar archivos de configuración locales
+*.config
+*.log
+
+# Ignorar archivos generados automáticamente por Visual Studio
+*.dll
+*.exe
+*.pdb
